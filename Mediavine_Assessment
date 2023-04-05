@@ -1,0 +1,5 @@
+//cy.visit('https://www.mediavine.com/');
+//cy.get('.hero__content-buttons').click();
+//cy.url().should('contains', 'https://www.mediavine.com/products/');
+//cy.url().should('contains', 'https://www.mediavine.com/events/');
+//cy.url().should('contains', 'https://app.grow.me/login');
